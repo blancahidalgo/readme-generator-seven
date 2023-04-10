@@ -45,7 +45,7 @@ message: "Please explain tests that have taken place?",
 {
 type: "checkbox",
 name: "license",
-message: ["MIT","APACHE2.0", "Boost1.0", "MPL2.0", "BSD2", "BSD3", "none"],
+choices: ["MIT","APACHE2.0", "Boost1.0", "MPL2.0", "BSD2", "BSD3", "none"],
 },
 
 {
