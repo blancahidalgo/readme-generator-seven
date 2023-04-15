@@ -1,6 +1,6 @@
 # README Generator
   by undefined
-  ![GitHub license](https://img.shields.io/badge/license--blue.svg)
+  ![GitHub license](https://img.shields.io/badge/license-MIT-blue.svg)
   ## Table of Contents
   * [Title](#title)
   * [Description](#description)
@@ -17,17 +17,17 @@
 ## Title
 README Generator
 ## Description
-This app will generate a professional README file - and will be used as a general template to follow best practice
+This app will generate a professional README file with great standards 
 ## Installation
-N/A
+Not many for now - easy app to install
 ## Usage
-Index.js markdown.js package.json and so one
+node.js index.js generateMarkdown.js package.json and so on
 ## Contributing
 undefined
 ## Tests
-N/A 
+several tests have taken place - no bugs have been identified
 ## License
-This project is licensed under the  license.
+This project is licensed under the MIT license.
 
 ## My GitHub Username
 undefined
