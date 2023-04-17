@@ -42,7 +42,7 @@ function generateMarkdown(data) {
   * [Description](#description)
   * [Installation](#installation)
   * [Usage](#usage)
-  * [Contributing](#contributing)
+  * [Contribution](#contribution)
   * [Tests](#tests)
   * [License](#license)
   * [GitHub-username](#my-github-username)
@@ -56,8 +56,8 @@ ${data.description}
 ${data.installation}
 ## Usage
 ${data.usage}
-## Contributing
-${data.contributing}
+## Contribution 
+${data.contribution}
 ## Tests
 ${data.tests}
 ${renderLicenseSection(data.license)}
